@@ -123,10 +123,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="farmacie.c" />
     <ClCompile Include="Seminar1.c" />
     <ClCompile Include="ticket.c" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="farmacii.txt" />
     <Text Include="file.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

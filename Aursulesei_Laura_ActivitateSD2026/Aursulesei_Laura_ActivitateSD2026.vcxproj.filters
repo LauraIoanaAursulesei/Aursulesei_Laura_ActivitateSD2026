@@ -21,9 +21,15 @@
     <ClCompile Include="ticket.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="farmacie.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="file.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="farmacii.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
